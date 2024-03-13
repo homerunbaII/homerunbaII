@@ -1,16 +1,25 @@
-### Hi there 👋
+# KIM HYUN SOO
+## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=homerunbaII&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**homerunbaII/homerunbaII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Baekjoon & Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thomas3737)](https://solved.ac/thomas3737)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=thomas3737&theme=warm)
 
-Here are some ideas to get you started:
+## 💪 Platforms & Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+
+
+## Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+
+ 
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://codetail.tistory.com/)](https://codetail.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thomas3737@korea.ac.kr)](mailto:thomas3737@korea.ac.kr)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:thomas3737@naver.com)](mailto:thomas3737@naver.com)
